@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PTSGENAP10RPL231</string>
+    <string-array name="user_name">
+        <item>Jacob</item>
+        <item>Fraya</item>
+        <item>Tumber</item>
+        <item>Roy</item>
+        <item>Caftaw</item>
+        <item>Wertu</item>
+    </string-array>
+
+    <string-array name="phone_number">
+        <item>Jan, 06 07 2005</item>
+        <item>Jan, 06 07 2005</item>
+        <item>Jan, 06 07 2005</item>
+        <item>Jan, 06 07 2005</item>
+        <item>Jan, 06 07 2005</item>
+        <item>Jan, 06 07 2005</item>
+    </string-array>
+
+</resources>
